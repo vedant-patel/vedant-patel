@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Vedant! 👋
 
 <!--
 **vedant-patel/vedant-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
