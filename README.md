@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 Pronouns: He/Him
-- 🤓 I'm currently interested in learning more about:
+- 🤔 I'm currently interested in learning more about:
   - 💻 Software Engineering
-  - 👨‍💻 Full-stack Development
+  - 👨‍💻 Full-Stack Development
   - 🧠 Machine Learning
   - 📚 Interdisciplinary applications of computing and computer science
 - 🏫 I'm currently studying Computer Science at the University of California, San Diego.  
